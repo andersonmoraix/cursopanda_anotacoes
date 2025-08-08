@@ -1,2 +1,1 @@
-# cursopanda_anotacoes
-Anotações do curso Panda em DataSciente - OracleOne
+# Anotações do curso de ciênca de dados oracle
